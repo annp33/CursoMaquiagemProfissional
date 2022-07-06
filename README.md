@@ -1,1 +1,1 @@
-Projeto desenvolvido em HTML, CSS puro.
+Projeto desenvolvido em HTML e CSS puro.
